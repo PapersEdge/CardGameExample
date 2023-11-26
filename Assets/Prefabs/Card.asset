@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1273f20ef89b0c74da3a070e2ebd8798, type: 3}
+  m_Name: Card
+  m_EditorClassIdentifier: 
+  cardName: Helga
+  type: 0
+  ATK: 1000
+  DEF: 3000
+  cardArt: {fileID: 2800000, guid: 1734f83ff21011b44b31d3a477955baa, type: 3}
+  description: 'Tanks for the Help: When this ship Defends, reduce damage taken for
+    other Characters by half'
